@@ -8,8 +8,8 @@ A data storytelling project exploring **Amazon Prime Video** titles: content mix
 👉 **[Open the Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNDU1NGNjNDQtYWQxOS00OTljLTgzYTMtNDlhMzBjNzc0YjFkIiwidCI6IjRmNDcyOThkLTI3OWMtNDhiYS1hOTgzLTJhMDk1YmUxODU1YiIsImMiOjEwfQ%3D%3D)**
 
 ![Dashboard Preview]  
-![Image](assets/prime-video-dashboard.png)
-
+<img width="1407" height="792" alt="Image" src="https://github.com/user-attachments/assets/2d547cab-577d-4d04-89ed-32a86f7e725d" />
+![Image](https://github.com/user-attachments/assets/14a4f985-39b0-4448-9303-ad2bd622b7c2)
 ---
 
 ## 📂 Project Files
